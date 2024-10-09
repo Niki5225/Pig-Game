@@ -1,1 +1,1 @@
-# Pig-Game
+This project is about a game called 'Pig game'. It's objective is to reach 100 points worth of dice rolls. When you roll the dice you have the choice to continue rolling and adding points to your current score or to hold the points. But if you throw one, you lose all of your current score and automarically switch turn with the other player. When one of the two players wins, it's background turns black and the buttons are disabled. Only the button for a new game is available.
